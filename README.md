@@ -20,4 +20,7 @@ Fibonacci serisindeki 4 milyondan küçük çift sayıların toplamı
 10001.asal sayı
 
 # Problem 8-)
-73167176... serisindeki ardışık 4 sayılardan en büyük çarpımı  
+73167176... serisindeki ardışık 4 sayılardan en büyük çarpımı 
+
+# Problem 9-)
+Toplamları 1000 olan pisagor üçlüsünü oluşturan sayıların çarpımı 
